@@ -17,6 +17,8 @@ h2 {
     padding:10px;
     border-bottom: 6px solid #00C54C;
 text-align: left ;
-font-size: 72px;
+font-size: 48px;
 color: #FFF;
 background-color: #281B2D;}
+.container { width:1000px;
+text-align:center;}
