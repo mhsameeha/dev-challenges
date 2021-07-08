@@ -9,8 +9,12 @@ h1 {
     font-size: 72px;
     margin-top: 0;
     padding: 25px 0;
+    clear:left;
 }
-
+.col-right{
+    margin-top:-1px;
+    margin-left:25px;
+}
 
 
 .subhead {
@@ -37,6 +41,7 @@ h1 {
     width: 65%;
     margin-right: 5%;
 }
+
 
 .sidebar {
     width: 30%;
