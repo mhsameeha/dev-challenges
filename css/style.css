@@ -1,10 +1,13 @@
 body {
     margin: 0;
+    background-color: #CAF0F8;
+    
 }
 
 
+
 h1 {
-    background-color: #281B2D;
+    background-color:#0096C7;
     color: #fff;
     text-align: center;
     font-size: 72px;
@@ -13,13 +16,15 @@ h1 {
 }
 
 .subhead {
-    background-color: #281B2D;
-    color: #FCD801;
+    background-color: #0096C7;
+    color: #03045E;
     font-size: 48px;
     margin-top:6%;
     margin-right:6%;
     padding: 20px;
-    border-bottom: 5px solid #00C54C;
+    border-bottom: 5px solid #023E8A;
+    text-align: center;
+    border-radius: 10px 140px 10px 140px
 }
 #subhead{width:96%}
 
@@ -45,7 +50,7 @@ h1 {
     width: 35%;
 padding-left:2%;}
     #sidebar{ 
-    background-color:#9AE84F ;
+    background-color:#90E0EF ;
 }
 
 .col-right {
